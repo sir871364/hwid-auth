@@ -2,11 +2,11 @@
   "allowed_hwids": [
     {
       "hwid": "4D4F-92E0-B853-FB7F-023D-2D69",
-      "note": "公司"
+      "note": "Coolpc"
     },
     {
       "hwid": "F40B-8B89-3A0C-4E47-0720-5DB3",
-      "note": "家"
+      "note": "管理員"
     }
   ]
 }
