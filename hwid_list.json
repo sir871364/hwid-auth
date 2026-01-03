@@ -1,23 +1,14 @@
 {
   "allowed_hwids": [
-    {
-      "hwid": "2F36-8E9F-D5F3-8575-459B-18C0",
-      "note": "Coolpc"
-    },
-    {
-      "hwid": "EA7C-FAF7-74D6-BE84-222B-6290",
-      "note": "管理員"
-    },
-    {
-      "hwid": "B99A-1E92-6B9D-43E6-CABF-95C0",
-      "note": "Coolpc_2"
-    },
-    {
-      "hwid": "CF24-C7AA-D56F-D081-0BF5-EA78",
-      "note": "岩辰_PDF解析器"
-    }
-  ]
+    { "hwid": "EA7C-FAF7-74D6-BE84-222B-6290", "note": "管理員","expires": "2099-12-31" }
+  ],
+  "apps": {
+    "bypassnro": [
+      { "hwid": "2F36-8E9F-D5F3-8575-459B-18C0", "note": "Coolpc","expires": "2099-12-31" }
+    ],
+    "pdfparser": [
+      { "hwid": "CF24-C7AA-D56F-D081-0BF5-EA78", "note": "岩辰","expires": "2099-12-31" },
+      { "hwid": "8C8E-C2A8-3A87-C699-0526-293F", "note": "家羽","expires": "2026-01-05"  }
+    ]
+  }
 }
-
-
-
