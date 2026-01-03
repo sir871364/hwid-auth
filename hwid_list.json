@@ -1,6 +1,6 @@
 {
   "allowed_hwids": [
-    { "hwid": "EA7C-FAF7-74D6-BE84-222B-6290", "note": "管理員","expires": "2025-12-31" }
+    { "hwid": "EA7C-FAF7-74D6-BE84-222B-6290", "note": "管理員","expires": "2099-12-31" }
   ],
   "apps": {
     "bypassnro": [
