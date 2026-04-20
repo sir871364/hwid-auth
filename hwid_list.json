@@ -1,6 +1,6 @@
 {
   "allowed_hwids": [
-    { "hwid": "8262-10AC-3922-1BDB-BA25-FC2F", "note": "管理員","expires": "2099-12-31" }
+    { "hwid": "8262-10AC-3922-1BDB-BA25-FC2E", "note": "管理員","expires": "2099-12-31" }
   ],
   "apps": {
     "bypassnro": [
